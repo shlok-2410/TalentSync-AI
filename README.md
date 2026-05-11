@@ -1,0 +1,1 @@
+TalentSync AI is a full-stack MERN application that leverages Artificial Intelligence to help job seekers and recruiters analyze resumes. By utilizing the Google Gemini 3 Flash model, it provides a "Match Score," identifies technical strengths, and suggests areas for improvement to help candidates bypass Applicant Tracking Systems (ATS).
